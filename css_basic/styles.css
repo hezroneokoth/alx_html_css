@@ -1,0 +1,50 @@
+/* A set of CSS rules.
+NO LICENSE required other than a reference */
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+    padding: 1px;
+    border-color: gray;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 {
+    font-style: italic;
+    font-family: monospace;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
