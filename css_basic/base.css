@@ -143,8 +143,6 @@ header {
     font-family: 'Yeseva One', sans-serif;
 }
 
-article {}
-
 header {
     border-bottom: 1px solid rgb(221, 221, 221);
     transition: border-bottom-color 1s ease;
