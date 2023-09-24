@@ -26,77 +26,88 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Tasks
 
-0. README and objectives!
+### 0. README and objectives
 
-This project is following the HTML, advanced project - please make sure all tasks of this previous one are fully done.
+#### This project is following the HTML, advanced project - please make sure all tasks of this previous one are fully done
 
-For this project, you will focus on the CSS and the style of the page.
+#### For this project, you will focus on the CSS and the style of the page
 
-This designer file will be available on Figma - feel free to create an account to access the final result here:
+##### This designer file will be available on Figma - feel free to create an account to access the final result here
 
-Page in Figma
+##### Page in Figma
 
-fig file
+##### fig file
 
-Images
+##### Images
 
-And “Duplicate to your Drafts” to have access to all design details. (if not already done)
-For this task, please write an amazing README.md and copy the index.html file from HTML, advanced
+##### And “Duplicate to your Drafts” to have access to all design details. (if not already done)
 
-1. Import the style
+#### For this task, please write an amazing README.md and copy the index.html file from HTML, advanced
 
-Before starting the implementation of the Style:
+### 1. Import the style
 
-Create the file styles.css
+#### Before starting the implementation of the Style
 
-Import styles.css in the head of your index.html
+##### Create the file styles.css
 
-2. Header and Banner
+##### Import styles.css in the head of your index.html
 
-Based on the Figma file, add the correct styling to the header and first section of the page
+### 2. Header and Banner
+
+#### Based on the Figma file, add the correct styling to the header and first section of the page
+
 ![header](d334bcd363741f2c5e5f32cd6114f4bd85910290.jpg)
 
-Reminders:
+#### Reminders
 
-All colors values, width, height and images are part of the Figma
+##### All colors values, width, height and images are part of the Figma
 
-Keep your CSS simple and clean - use as simple as you can CSS selectors
+##### Keep your CSS simple and clean - use as simple as you can CSS selectors
 
-Be accurate - the final result should be the same as the page at the end!
+##### Be accurate - the final result should be the same as the page at the end!
 
-3. Quotes
+### 3. Quotes
 
-Based on the Figma file, add the correct styling to the quote section
+#### Based on the Figma file, add the correct styling to the quote section
+
 ![Quotes](ee0996ad34d3fae07261689c6f0b2cb5613880a9-1.jpg)
 
-Tips:
-You can start to see similar or common style, time to start to centralize your style and CSS selectors
+#### Tips
 
-4. Videos list
+##### You can start to see similar or common style, time to start to centralize your style and CSS selectors
 
-Based on the Figma file, add the correct styling to the videos list section
+### 4. Videos list
+
+#### Based on the Figma file, add the correct styling to the videos list section
+
 ![Video list](d47a729b9d6702221c8efc85b1230e99141c6d10.jpg)
 
-5. Membership
+### 5. Membership
 
-Based on the Figma file, add the correct styling to the membership section
+#### Based on the Figma file, add the correct styling to the membership section
+
 ![Membership](aaf4bb53ac9d8944b1ced13aa4c7090e5eb3be2f.jpg)
 
-6. FAQ
+### 6. FAQ
 
-Based on the Figma file, add the correct styling to the FAQ section
+#### Based on the Figma file, add the correct styling to the FAQ section
+
 ![FAQ](925cc37eab76934f55ba496627a1b39657dc141f.jpg)
 
-7. Footer
+### 7. Footer
 
-Based on the Figma file, add the correct styling to the footer
+#### Based on the Figma file, add the correct styling to the footer
+
 ![Footer](90bf4d0180791e49a8656cdc617d1280c4ffe9bf.jpg)
 
 ## COLLABORATORS
 
-This is solely Hezerone Okoth's project.
+### This is solely Hezerone Okoth's project
 
 ## LICENCE
 
-Students and Developers can use this code however they can so long as it does not infringe on exsting regulations. Caution should be exercised.
-In regards with copyright, all lie with the developer.
+### Students and Developers can use this code however they can so long as it does not infringe on exsting regulations
+
+### Caution should be exercised
+
+### In regards with copyright, all lie with the developer
