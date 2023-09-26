@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- An HTML feedback form with several checkboxes and ability to upload a file -->
+    <title>Feedback Form</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Feedback Form</h1>
+        <form action="/submit" method="post" enctype="multipart/form-data">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br>
+
+            <label>Feedback:</label><br>
+            <label><input type="checkbox" name="excellent" value="excellent"> Excellent</label><br>
+            <label><input type="checkbox" name="good" value="good"> Good</label><br>
+            <label><input type="checkbox" name="average" value="average"> Average</label><br>
+            <label><input type="checkbox" name="poor" value="poor"> Poor</label><br>
+
+            <label for="file">Upload File:</label>
+            <input type="file" id="file" name="file" required><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+
+</html>
